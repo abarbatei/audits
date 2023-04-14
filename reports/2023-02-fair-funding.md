@@ -4,9 +4,9 @@ Original contest issue and links:
 
 |#|Issue|Original link|
 |-|:-|:-:|
-| [M-01] | Auction can be force started and first token force minted by calling `settle()` before the auction was launched | [Link](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/83) |
-| [M-02] | Migration logic is implemented incorrectly | [Link](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/35) |
-| [M-03] | All operators can be removed, leaving the Vault without core functionality | [Link](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/32) |
+| [M-01] | Auction can be force started and first token force minted by calling `settle()` before the auction was launched | [#83](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/83) |
+| [M-02] | Migration logic is implemented incorrectly | [#35](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/35) |
+| [M-03] | All operators can be removed, leaving the Vault without core functionality | [#32](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/32) |
 
 Typos may have been fixed and, the discussion part, was added at the end where applicable.
 
