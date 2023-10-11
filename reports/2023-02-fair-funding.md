@@ -4,15 +4,15 @@ Original contest issue and links:
 
 |#|Issue|Original link|
 |-|:-|:-:|
-| [M-01] | Auction can be force started and first token force minted by calling `settle()` before the auction was launched | [#83](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/83) |
-| [M-02] | Migration logic is implemented incorrectly | [#35](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/35) |
-| [M-03] | All operators can be removed, leaving the Vault without core functionality | [#32](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/32) |
+| [M&#x2011;01] | Auction can be force started and first token force minted by calling `settle()` before the auction was launched | [#83](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/83) |
+| [M&#x2011;02] | Migration logic is implemented incorrectly | [#35](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/35) |
+| [M&#x2011;03] | All operators can be removed, leaving the Vault without core functionality | [#32](https://github.com/sherlock-audit/2023-02-fair-funding-judging/issues/32) |
 
 Typos may have been fixed and, the discussion part, was added at the end where applicable.
 
 # Medium Risk Findings (3)
 
-# [M-01] Auction can be force started and first token force minted by calling `settle()` before the auction was launched
+# [M&#x2011;01] Auction can be force started and first token force minted by calling `settle()` before the auction was launched
 
 ## Summary
 
@@ -101,7 +101,7 @@ index fe470ee..79b56f4 100644
 ```
 
 
-# [M-02] Migration logic is implemented incorrectly
+# [M&#x2011;02] Migration logic is implemented incorrectly
 
 ## Summary
 
@@ -186,7 +186,7 @@ Manual Review
 
 Seek help/guidance for migration with the `Alchemix` developers. At worst, implement the existing `migrateVaults` logic, even if it's not currently clear how such a migration would happen in the future. Sticking to known patterns may be enough in this case. 
 
-# [M-03] All operators can be removed, leaving the Vault without core functionality
+# [M&#x2011;03] All operators can be removed, leaving the Vault without core functionality
 
 ## Summary
 

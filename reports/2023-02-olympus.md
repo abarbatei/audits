@@ -4,16 +4,16 @@ Original contest issue and links:
 
 |#|Issue|Original link|
 |-|:-|:-:|
-| [H-01] | claiming internal rewards via `internalRewardsForToken` fails in some cases even when users are entitled to internal rewards | [#68](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/68) |
-| [H-02] | `_claimExternalRewards` does not update contract state after claiming, allowing for extra external reward token claims via `claimRewards` | [#14](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/14) |
-| [H-03] | `userRewardDebts` is not correctly deducted from `cachedUserRewards` in `_withdrawUpdateRewardState` leading to extra external rewards by withdrawing | [#23](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/23) + [#24](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/24) |
-| [M-01] | claiming external rewards via `externalRewardsForToken` fails in some cases even when users are entitled to external rewards | [#56](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/56) |
+| [H&#x2011;01] | claiming internal rewards via `internalRewardsForToken` fails in some cases even when users are entitled to internal rewards | [#68](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/68) |
+| [H&#x2011;02] | `_claimExternalRewards` does not update contract state after claiming, allowing for extra external reward token claims via `claimRewards` | [#14](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/14) |
+| [H&#x2011;03] | `userRewardDebts` is not correctly deducted from `cachedUserRewards` in `_withdrawUpdateRewardState` leading to extra external rewards by withdrawing | [#23](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/23) + [#24](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/24) |
+| [M&#x2011;01] | claiming external rewards via `externalRewardsForToken` fails in some cases even when users are entitled to external rewards | [#56](https://github.com/sherlock-audit/2023-02-olympus-judging/issues/56) |
 
 Typos may have been fixed and, the discussion part, was added at the end where applicable.
 
 # High Risk Findings (3)
 
-# [H-01] claiming internal rewards via `internalRewardsForToken` fails in some cases even when users are entitled to internal rewards
+# [H&#x2011;01] claiming internal rewards via `internalRewardsForToken` fails in some cases even when users are entitled to internal rewards
 
 ## Summary
 
@@ -107,7 +107,7 @@ Move the problematic operations in the final calculation of the return statement
 ```
 or declare `totalAccumulatedRewards` as `int256`
 
-# [H-02] `_claimExternalRewards` does not update contract state after claiming, allowing for extra external reward token claims via `claimRewards`
+# [H&#x2011;02] `_claimExternalRewards` does not update contract state after claiming, allowing for extra external reward token claims via `claimRewards`
 
 ## Summary
 
@@ -217,7 +217,7 @@ index 279b7e4..6cec65c 100644
 ```
 
 
-# [H-03] `userRewardDebts` is not correctly deducted from `cachedUserRewards` in `_withdrawUpdateRewardState` leading to extra external rewards by withdrawing
+# [H&#x2011;03] `userRewardDebts` is not correctly deducted from `cachedUserRewards` in `_withdrawUpdateRewardState` leading to extra external rewards by withdrawing
 
 ## Summary
 
@@ -248,7 +248,7 @@ Manual Review
 ## Recommendation
 
 Reverse the attributions in lines 607-610 from 
-```Solidity
+```diff
 diff --git a/src/policies/lending/abstracts/SingleSidedLiquidityVault.sol b/src/policies/lending/abstracts/SingleSidedLiquidityVault.sol
 index 279b7e4..a83eedf 100644
 --- a/src/policies/lending/abstracts/SingleSidedLiquidityVault.sol
@@ -270,7 +270,7 @@ index 279b7e4..a83eedf 100644
 
 # Medium Risk Findings (1)
 
-# [M-01] claiming external rewards via `externalRewardsForToken` fails in some cases even when users are entitled to external rewards
+# [M&#x2011;01] claiming external rewards via `externalRewardsForToken` fails in some cases even when users are entitled to external rewards
 
 ## Summary
 

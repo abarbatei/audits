@@ -4,12 +4,12 @@ Original links are as follows:
 
 |#|Issue|Original link|
 |-|:-|:-:|
-| [QA] | Quality Assurance (grade-a) | [#21](https://github.com/code-423n4/2023-01-opensea-findings/issues/21) |
+| [QA] | Quality Assurance (grade-A) | [#21](https://github.com/code-423n4/2023-01-opensea-findings/issues/21) |
 
 
 Typos may have been fixed and, the discussion part, was added at the end where applicable.
 
-# Quality Assurance (grade-a)
+# Quality Assurance
 
 # [1] incorrect size round up in _encodeBytes
 

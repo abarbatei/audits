@@ -4,15 +4,15 @@ Original contest issue and links:
 
 |#|Issue|Original link|
 |-|:-|:-:|
-| [H-01] | Rounding error in LP withdrawLP function leads to infinite rewards extraction without the need to have staked BYTES LP | [#165](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/165) |
-| [H-02] | Users reward withdraws may be frontrun, leading to reward loss; not claiming frequently leads to reward loss | [#185](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/185) |
-| [QA] | Quality Assurance (grade-b) | [#115](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/115) + [#166](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/166) |
+| [H&#x2011;01] | Rounding error in LP withdrawLP function leads to infinite rewards extraction without the need to have staked BYTES LP | [#165](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/165) |
+| [H&#x2011;02] | Users reward withdraws may be frontrun, leading to reward loss; not claiming frequently leads to reward loss | [#185](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/185) |
+| [QA] | Quality Assurance (grade-B) | [#115](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/115) + [#166](https://github.com/code-423n4/2023-03-neotokyo-findings/issues/166) |
 
 Typos may have been fixed and, the discussion part, was added at the end where applicable.
 
 # High Risk Findings (2)
 
-# [H-01] Rounding error in LP withdrawLP function leads to infinite rewards extraction without the need to have staked BYTES LP
+# [H&#x2011;01] Rounding error in LP withdrawLP function leads to infinite rewards extraction without the need to have staked BYTES LP
 
 ## Impact
 
@@ -173,7 +173,7 @@ Manual analysis
 - check if `points` is 0 after each calculation in stakeLP/unstakeLP and raise an error in that case
 
 
-# [H-02] Users reward withdraws may be frontrun, leading to reward loss; not claiming frequently leads to reward loss
+# [H&#x2011;02] Users reward withdraws may be frontrun, leading to reward loss; not claiming frequently leads to reward loss
 
 ## Impact
 
