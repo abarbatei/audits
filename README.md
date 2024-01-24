@@ -1,22 +1,29 @@
 # ABA security and audit portfolio
 
-The following is a public profile of my journey as a blockchain Security Researcher and Smart Contract Auditor. I started by doing competitive audits at [Code4rena](https://code4rena.com/), [Sherlock](https://www.sherlock.xyz/), [CodeHawks](https://www.codehawks.com/) and now [Cantina](https://cantina.xyz/).
+The following is a public profile of my career as a blockchain Security Researcher and Smart Contract Auditor. I started by doing competitive audits at [Code4rena](https://code4rena.com/), [Sherlock](https://www.sherlock.xyz/) and on the newer platforms such as [CodeHawks](https://www.codehawks.com/) and [Cantina](https://cantina.xyz/).
 
-Now, I also do private audits and engagements. You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth). I also engage in collaborative security reviews with reputable leaders in the space, such as [Guardian Audits](https://twitter.com/GuardianAudits).
+Currently I do private audits and engagements. I also engage in collaborative security reviews with  [Guardian Audits](https://twitter.com/GuardianAudits), reputable leaders in the space in both audit quality and educational content.
+
+You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth).
 
 
 ## Security Engagements
 
-[Guardian Audits: PariFi - Perpetuals Exchange Smart Contract system](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf)
+| Report date | Project | Audited Functionality | Logistics | Language | Report |
+|:-|:-|:-|:-|:-|:-:|
+| January 18th, 2024 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; integration with GMX V1, AAVE, Fraxlend and Angle | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
+| January 11th, 2024 | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | Guardian Audits collaboration | Solidity | [2023-01-11_Dolomite.pdf](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
+| January 10th, 2024 | [Umami](https://umami.finance/) | GMX V2 market index: GMI | Guardian Audits collaboration | Solidity | [2024-01-10_Umami.pdf](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
+| November 15th, 2023 | [PariFi](https://parifi.org/) | Perpetuals logic | Guardian Audits collaboration | Solidity | [11-15-2023_PariFi.pdf](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
 
 ## Public Audit Contests
 
 | Contest | Date | Platform  | Rank | Official Report | My report | My findings |
 |:-|:-|:-|:-|:-|:-|:-:|
-| [Brahma](https://code4rena.com/contests/2023-10-brahma) | October 2023 | Code4Rena | **1st** out of 51 | [Link](https://code4rena.com/reports/2023-10-brahma) | [Link](https://code4rena.com/reports/2023-10-brahma#m-03-protocol-is-not-eip712-compliant-incorrect-typehash-for-validation-and-transaction-structures) | 1M |
+| [Brahma](https://code4rena.com/contests/2023-10-brahma) | October 2023 | Code4Rena | 🥇 **1st** out of 51 | [Link](https://code4rena.com/reports/2023-10-brahma) | [Link](https://code4rena.com/reports/2023-10-brahma#m-03-protocol-is-not-eip712-compliant-incorrect-typehash-for-validation-and-transaction-structures) | 1M |
 | [Beedle - Oracle free perpetual lending](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | Jul-August 2023 | CodeHawks | **7th** out of 276 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) | [Link](reports/contests/2023-07-beedle.md) | 5H 2M |
 | [Maia DAO Ecosystem](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | May-July 2023 | Code4rena | **6th** out of 101 | [Link](https://code4rena.com/reports/2023-05-maia) | [Link](reports/contests/2023-05-maia-dao-ecosystem.md) | 2H 4M |
-| [Juicebox Buyback Delegate](https://code4rena.com/contests/2023-05-juicebox-buyback-delegate#top) | May 2023 | Code4rena | **1st** out of 72 | [Link](https://code4rena.com/reports/2023-05-juicebox) | [Link](reports/contests/2023-05-juicebox.md) | 1M |
+| [Juicebox Buyback Delegate](https://code4rena.com/contests/2023-05-juicebox-buyback-delegate#top) | May 2023 | Code4rena | 🥇 **1st** out of 72 | [Link](https://code4rena.com/reports/2023-05-juicebox) | [Link](reports/contests/2023-05-juicebox.md) | 1M |
 | [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | April 2023 | Code4rena | **18th** out of 43 | [Link](https://code4rena.com/reports/2023-04-eigenlayer) | [Link](reports/contests/2023-04-eigenlayer.md) | 1M |
 | [ENS](https://code4rena.com/contests/2023-04-ens-contest#top) | April 2023 | Code4rena | **21th** out of 59 | [Link](https://code4rena.com/reports/2023-04-ens) | [Link](reports/contests/2023-04-ens.md) | Lows |
 | [Neo Tokyo](https://code4rena.com/contests/2023-03-neo-tokyo-contest) | March 2023 | Code4rena | **5th** out of 123 | [Link](https://code4rena.com/reports/2023-03-neotokyo) | [Link](reports/contests/2023-03-neo-tokyo-contest.md) | 2H |
