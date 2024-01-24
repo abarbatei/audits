@@ -4,17 +4,17 @@ The following is a public profile of my career as a blockchain Security Research
 
 Currently I do private audits and engagements. I also engage in collaborative security reviews with  [Guardian Audits](https://twitter.com/GuardianAudits), reputable leaders in the space in both audit quality and educational content.
 
-You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth).
+You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth)
 
 
 ## Security Engagements
 
-| Report date | Project | Audited Functionality | Logistics | Language | Report |
+| Engagement date | Project | Audited Functionality | Logistics | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| January 18th, 2024 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; integration with GMX V1, AAVE, Fraxlend and Angle | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
-| January 11th, 2024 | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | Guardian Audits collaboration | Solidity | [2023-01-11_Dolomite.pdf](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
-| January 10th, 2024 | [Umami](https://umami.finance/) | GMX V2 market index: GMI | Guardian Audits collaboration | Solidity | [2024-01-10_Umami.pdf](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
-| November 15th, 2023 | [PariFi](https://parifi.org/) | Perpetuals logic | Guardian Audits collaboration | Solidity | [11-15-2023_PariFi.pdf](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
+| December 2023 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; integration with GMX V1, AAVE, Fraxlend and Angle | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
+| December 2023 | [Umami](https://umami.finance/) | GMX V2 market index: GMI | Guardian Audits collaboration | Solidity | [2024-01-10_Umami.pdf](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
+| November 2023 | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | Guardian Audits collaboration | Solidity | [2023-01-11_Dolomite.pdf](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
+| October 2023 | [PariFi](https://parifi.org/) | Perpetuals logic | Guardian Audits collaboration | Solidity | [11-15-2023_PariFi.pdf](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
 
 ## Public Audit Contests
 
