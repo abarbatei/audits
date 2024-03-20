@@ -47,4 +47,5 @@ You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or 
 - [Cantina](https://cantina.xyz/u/abarbatei)
 - [CodeHawks](https://www.codehawks.com/profile/clk43rqfo0008mg084q0ema3g)
 - [Code4rena](https://code4rena.com/@ABA)
+- [FindAudit](https://app.findaudit.xyz/p/abarbatei)
 - [Sherlock](https://audits.sherlock.xyz/watson/ABA)
