@@ -43,7 +43,7 @@ You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or 
 | March 2023 | [Race 16](https://ventral.digital/posts/2023/4/1/race-16-of-the-secureum-bootcamp-epoch-infinity) | Secureum | **16th** out of 205 | [Link](https://ventral.digital/posts/2023/4/1/race-16-of-the-secureum-bootcamp-epoch-infinity) |
 
 
-## Relevant profiles
+## Relevant Profiles
 - [Cantina](https://cantina.xyz/u/abarbatei)
 - [CodeHawks](https://www.codehawks.com/profile/clk43rqfo0008mg084q0ema3g)
 - [Code4rena](https://code4rena.com/@ABA)
