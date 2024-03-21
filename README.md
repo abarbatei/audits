@@ -11,6 +11,7 @@ You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or 
 
 | Engagement date | Project | Audited Functionality | Logistics | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
+| February 2024 | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Solo private audit | Solidity | [b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
 | December 2023 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; integration with GMX V1, AAVE, Fraxlend and Angle | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
 | December 2023 | [Umami](https://umami.finance/) | GMX V2 market index: GMI | Guardian Audits collaboration | Solidity | [2024-01-10_Umami.pdf](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
 | November 2023 | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | Guardian Audits collaboration | Solidity | [2023-01-11_Dolomite.pdf](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
