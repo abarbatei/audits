@@ -4,13 +4,15 @@ The following is a public profile of my career as a blockchain Security Research
 
 Currently I do private audits and engagements. I also engage in collaborative security reviews with  [Guardian Audits](https://twitter.com/GuardianAudits), reputable leaders in the space in both audit quality and educational content.
 
-You can find me on Twitter [ABA (@abarbatei)](https://twitter.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth)
+You can find me on X (Twitter) [ABA (@abarbatei)](https://x.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth)
 
 
 ## Security Engagements
 
 | Engagement date | Project | Audited Functionality | Logistics | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
+| May 2024 | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Solo private audit | Solidity | [b0rder1ess-NAP_Extension_Audit_Report.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
+| May 2024 | [DN404](http://dn404.org/) | ERC7631 standard co-joined ERC20 and ERC721 implementation | Guardian Audits collaboration | Solidity | [2024-05-13_DN404.pdf](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
 | February 2024 | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Solo private audit | Solidity | [b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
 | December 2023 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; integration with GMX V1, AAVE, Fraxlend and Angle | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
 | December 2023 | [Umami](https://umami.finance/) | GMX V2 market index: GMI | Guardian Audits collaboration | Solidity | [2024-01-10_Umami.pdf](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
