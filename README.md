@@ -26,7 +26,7 @@ You can find me on X (Twitter) [ABA (@abarbatei)](https://x.com/abarbatei) or on
 
 ### Testimonials
 
-![testimonials](https://github.com/abarbatei/audits/tree/main/reports/testimonials/testimonials-1.png)
+![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-1.png)
 
 
 ## Public Audit Contests
