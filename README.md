@@ -24,6 +24,9 @@ You can find me on X (Twitter) [ABA (@abarbatei)](https://x.com/abarbatei) or on
 | Nov 2023 | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [2023-01-11_Dolomite.pdf](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
 | Oct 2023 | [PariFi](https://parifi.org/) | Perpetuals logic | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [11-15-2023_PariFi.pdf](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
 
+### Testimonials
+
+![testimonials](https://github.com/abarbatei/audits/tree/main/reports/testimonials/testimonials-1.png)
 
 
 ## Public Audit Contests
