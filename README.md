@@ -6,7 +6,7 @@ Currently I do private audits and engagements. I also engage in collaborative se
 
 You can find me on X (Twitter) [ABA (@abarbatei)](https://x.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth)
 
-Liquid Restaking EigenLayer Integration
+
 ## Security Engagements
 
 | Engagement date | Project | Audited Functionality | Logistics | Language | Report |
