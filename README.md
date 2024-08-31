@@ -1,25 +1,36 @@
 # ABA security and audit portfolio
 
-The following is a public profile of my career as a blockchain Security Researcher and Smart Contract Auditor. I started by doing competitive audits at [Code4rena](https://code4rena.com/), [Sherlock](https://www.sherlock.xyz/) and on the newer platforms such as [CodeHawks](https://www.codehawks.com/) and [Cantina](https://cantina.xyz/).
+The following is the public profile of my career as a blockchain Security Researcher and Smart Contract Auditor.
 
-Currently I do private audits and engagements. I also engage in collaborative security reviews with  [Guardian Audits](https://twitter.com/GuardianAudits), reputable leaders in the space in both audit quality and educational content.
+I'm Alin Mihai Barbatei, also know as ABA. I'm an independent security researcher with a strong focus on blockchain security. My career started in traditional software security, which has given me a solid foundation for uncovering complex vulnerabilities. Over the years, I've gained significant experience securing both EVM (Ethereum Virtual Machine) compatible blockchain projects and Bitcoin L2, particularly Stacks, projects.
 
-You can find me on X (Twitter) [ABA (@abarbatei)](https://x.com/abarbatei) or on WarpCast [ABA (abarbatei.eth)](https://warpcast.com/abarbatei.eth)
+I've conducted a number of solo and collaborative smart contract security reviews. I take pride in delivering thorough and comprehensive smart contract audits that stand out for their quality.
+
+If you’re interested in learning more about what I do, you can check out my blog at abarbatei.xyz. You can also take a look at my audit portfolio there. For audit bookings or if you have any security review inquiries, feel free to reach out to me on Telegram, Twitter (X), or WarpCast:
+
+- Telegram: [abarbatei](https://t.me/abarbatei)
+- Twitter (X): [abarbatei](https://x.com/abarbatei)
+- WarpCast: [abarbatei.eth](https://warpcast.com/abarbatei.eth)
 
 
 ## Security Engagements
 
 | Engagement date | Project | Audited Functionality | Logistics | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| May 2024 | Undisclosed |  Blast on-chain lottery game  | [sub7](https://sub7.xyz/) solo collaboration | Solidity | - |
+| Aug 2024 | TBA | AAVE-like Umbrella Safety Module protocol extension | Solo private audit | Clarity | TBA |
+| Aug 2024 | Undisclosed | Node infrastructure software | Team collaboration | Rust | - |
+| Jul 2024 | [BlastTheBalloon](https://x.com/blasttheballoon) |  Extension on my previous BTB audit | [sub7](https://sub7.xyz/) solo collaboration | Solidity | [Blast the Balloon Extension Security Assessment Findings Report.pdf](https://drive.google.com/file/d/1vEWf-srM3sXQ15R3Gq9gU7_T-_D5pcYM/view) |
+| Jun 2024 | TBA | Borrowing and lending protocol | Solo private audit | Clarity | TBA |
+| Jun 2024 | TBA | Bitcoin asset bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | TBA |
+| May 2024 | [BlastTheBalloon](https://x.com/blasttheballoon) |  Blast on-chain lottery game  | [sub7](https://sub7.xyz/) solo collaboration | Solidity | - |
 | May 2024 | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Solo private audit | Solidity | [b0rder1ess-NAP_Extension_Audit_Report.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
 | May 2024 | [DN404](http://dn404.org/) | ERC7631 standard co-joined ERC20 and ERC721 implementation | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [2024-05-13_DN404.pdf](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
-| Apr 2024 | Undisclosed |  GMX V2 backed stablecoin | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
-| Mar 2024 | Undisclosed |  Staking and token migration | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
-| Mar 2024 | Undisclosed |  GMX V1 backed stablecoin | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
+| Apr 2024 | Undisclosed | GMX V2 backed stablecoin | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
+| Mar 2024 | Undisclosed | Staking and token migration | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
+| Mar 2024 | Undisclosed | GMX V1 backed stablecoin | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
 | Feb 2024 | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Solo private audit | Solidity | [b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
-| Jan 2024 | Undisclosed |  Liquid Restaking EigenLayer Integration | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | - |
-| Dec 2023 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; integration with GMX V1, AAVE, Fraxlend and Angle | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
+| Jan 2024 | [Rest Finance](https://www.restfinance.xyz/) |  Liquid Restaking EigenLayer Integration | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [2024-01-26_Rest_Finance.pdf](https://github.com/GuardianAudits/Audits/blob/main/RestFinance/2024-01-26_Rest_Finance.pdf) |
+| Dec 2023 | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; GMX V1, AAVE, Fraxlend and Angle integration | Solo private audit | Solidity | [Ithil-v2-Security-Review-v105.pdf](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
 | Dec 2023 | [Umami](https://umami.finance/) | GMX V2 market index: GMI | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [2024-01-10_Umami.pdf](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
 | Nov 2023 | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [2023-01-11_Dolomite.pdf](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
 | Oct 2023 | [PariFi](https://parifi.org/) | Perpetuals logic | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [11-15-2023_PariFi.pdf](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
@@ -49,9 +60,10 @@ You can find me on X (Twitter) [ABA (@abarbatei)](https://x.com/abarbatei) or on
 
 | Date | Contest |  Platform  | Rank | Official Solution |
 |:-|:-|:-|:-|:-:|
-| Feb 2024 | [Race 27](https://ventral.digital/posts/2024/3/4/race-27-of-the-secureum-bootcamp-epoch-infinity/) | Secureum | **25th** out of 140 | [Link](https://ventral.digital/posts/2024/3/4/race-27-of-the-secureum-bootcamp-epoch-infinity/) |
-| Oct 2023 | [Race 22](https://ventral.digital/posts/2023/10/3/race-22-of-the-secureum-bootcamp-epoch-infinity) | Secureum | **13th** out of 175 | [Link](https://ventral.digital/posts/2023/10/3/race-22-of-the-secureum-bootcamp-epoch-infinity) |
-| Mar 2023 | [Race 16](https://ventral.digital/posts/2023/4/1/race-16-of-the-secureum-bootcamp-epoch-infinity) | Secureum | **16th** out of 205 | [Link](https://ventral.digital/posts/2023/4/1/race-16-of-the-secureum-bootcamp-epoch-infinity) |
+| Jul 2024 | [Race 31](https://x.com/TheSecureum/status/1819725988479279418) | Secureum | **8th** out of 83 | [Link](https://ventral.digital/posts/2024/7/30/race-31-of-the-secureum-bootcamp-epoch-infinity/) |
+| Feb 2024 | [Race 27](https://x.com/TheSecureum/status/1764978040155898215) | Secureum | **25th** out of 140 | [Link](https://ventral.digital/posts/2024/3/4/race-27-of-the-secureum-bootcamp-epoch-infinity/) |
+| Oct 2023 | [Race 22](https://x.com/TheSecureum/status/1716107276287623196) | Secureum | **13th** out of 175 | [Link](https://ventral.digital/posts/2023/10/3/race-22-of-the-secureum-bootcamp-epoch-infinity) |
+| Mar 2023 | [Race 16](https://x.com/TheSecureum/status/1643636512733396992) | Secureum | **16th** out of 205 | [Link](https://ventral.digital/posts/2023/4/1/race-16-of-the-secureum-bootcamp-epoch-infinity) |
 
 
 ## Relevant Profiles
