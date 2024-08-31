@@ -17,7 +17,7 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 | Engagement date | Project | Audited Functionality | Logistics | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| Aug 2024 | TBA | AAVE-like Umbrella Safety Module protocol extension | Solo private audit | Clarity | TBA |
+| Aug 2024 | TBA | AAVE-like Umbrella Safety Module | Solo private audit | Clarity | TBA |
 | Aug 2024 | Undisclosed | Node infrastructure software | Team collaboration | Rust | - |
 | Jul 2024 | [BlastTheBalloon](https://x.com/blasttheballoon) |  Extension on my previous BTB audit | [sub7](https://sub7.xyz/) solo collaboration | Solidity | [Blast the Balloon Extension Security Assessment Findings Report.pdf](https://drive.google.com/file/d/1vEWf-srM3sXQ15R3Gq9gU7_T-_D5pcYM/view) |
 | Jun 2024 | TBA | Borrowing and lending protocol | Solo private audit | Clarity | TBA |
