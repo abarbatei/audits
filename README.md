@@ -17,14 +17,18 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 | Engagement date | Project | Audited Functionality | Logistics | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
+| ``Dec 2024`` | Undisclosed | Bitcoin bridging and staking mechanism | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | - |
+| ``Dec 2024`` | Undisclosed | On-chain price oracle | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | - |
+| ``Nov 2024`` | Undisclosed | Extension on a borrowing and lending protocol | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | - |
+| ``Oct 2024`` | Undisclosed | Bitcoin backed stablecoin | Team collaboration | Clarity | - |
 | ``Sep 2024`` | [Bitflow StableSwap Staking](https://docs.bitflow.finance/bitflow-documentation) | StableSwap LP staking mechanism | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Staking.pdf) |
 | ``Sep 2024`` | [Bitflow StableSwap](https://docs.bitflow.finance/bitflow-documentation/learn/what-is-the-bitflow-stableswap) | Extension to the existing StableSwap implementation | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap.pdf) |
 | ``Sep 2024`` | [Zest Protocol BTCz](https://docs.zestprotocol.com/start/earn/zest-protocol-earn-overview/btcz) | Bitcoin to Stacks BTC bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Zest%20Protocol%20BTCz.pdf) |
-| ``Aug 2024`` | TBA | AAVE-like Umbrella Safety Module | Solo private audit | Clarity | TBA |
+| ``Aug 2024`` | [Granite Safety Module](https://www.granite.world/) | AAVE-like Umbrella Safety Module | Solo private audit | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-09-03%20Granite%20Safety%20Module%20Audit%20-%20ABA.pdf) |
 | ``Aug 2024`` | Undisclosed | Node infrastructure software | Team collaboration | Rust | - |
 | ``Jul 2024`` | [BlastTheBalloon](https://x.com/blasttheballoon) |  Extension on my previous BTB audit | [sub7](https://sub7.xyz/) solo collaboration | Solidity | [📄](https://drive.google.com/file/d/1vEWf-srM3sXQ15R3Gq9gU7_T-_D5pcYM/view) |
-| ``Jun 2024`` | TBA | Borrowing and lending protocol | Solo private audit | Clarity | TBA |
-| ``Jun 2024`` | TBA | Bitcoin asset bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | TBA |
+| ``Jun 2024`` | [Granite](https://www.granite.world/) | Borrowing and lending protocol | Solo private audit | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-08-12%20Granite%20Audit%20-%20ABA.pdf) |
+| ``Jun 2024`` | [Pontis Bridge](https://x.com/Pontis_official) | Bitcoin asset bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) team collaboration | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Pontis%20Bridge.pdf) |
 | ``May 2024`` | [BlastTheBalloon](https://x.com/blasttheballoon) |  Blast on-chain lottery game  | [sub7](https://sub7.xyz/) solo collaboration | Solidity | - |
 | ``May 2024`` | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Solo private audit | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
 | ``May 2024`` | [DN404](http://dn404.org/) | ERC7631 standard co-joined ERC20 and ERC721 implementation | [Guardian](https://guardianaudits.com/) team collaboration | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
@@ -40,7 +44,7 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 ### Testimonials
 
-![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-1.png)
+![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-2.png)
 
 
 ## Public Audit Contests
