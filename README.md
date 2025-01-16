@@ -93,6 +93,7 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 - [Blockchain reorgs for Managers and Auditors](https://abarbatei.xyz/blockchain-reorgs-for-managers-and-auditors)
 - [DN404 - Vulnerabilities Reported And Resolved](https://guardianaudits.com/blog/dn404-vulnerabilities-reported-and-resolved)
+- [Weird ERC721 Tokens](https://github.com/abarbatei/weird-erc721)
 
 ## Relevant Profiles
 
