@@ -20,7 +20,7 @@ If you’re interested in learning more about what I do, you can check out my bl
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
 | ``Jan`` | Undisclosed | Cross-chain, intent-based orderbook | Independent | Solidity | - |
-| ``Jan`` | Undisclosed | Bonding curve token launchpad | Independent | Solidity | TBA |
+| ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
 
 ### Security Engagements done in 2024
 
@@ -61,20 +61,20 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 ![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-2.png)
 
-## Public Audit Competitions
+## Public Audit Competitions done in 2023
 
 | Date | Contest | Platform  | Rank | Official Report | My findings |
 |:-|:-|:-|:-|:-|:-:|
-| ``Oct 2023`` | [Brahma](https://code4rena.com/contests/2023-10-brahma) |  Code4rena | 🥇 **1st** out of 51 | [Link](https://code4rena.com/reports/2023-10-brahma) | [1M](https://code4rena.com/reports/2023-10-brahma#m-03-protocol-is-not-eip712-compliant-incorrect-typehash-for-validation-and-transaction-structures) |
-| ``Jul 2023`` | [Beedle - Oracle free perpetual lending](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) |  CodeHawks | **7th** out of 276 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) | [5H 2M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-07-beedle.md) |
-| ``May 2023`` | [Maia DAO Ecosystem](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) |  Code4rena | **6th** out of 101 | [Link](https://code4rena.com/reports/2023-05-maia) | [2H 4M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-05-maia-dao-ecosystem.md) |
-| ``May 2023`` | [Juicebox Buyback Delegate](https://code4rena.com/contests/2023-05-juicebox-buyback-delegate#top) | Code4rena | 🥇 **1st** out of 72 | [Link](https://code4rena.com/reports/2023-05-juicebox) | [1M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-05-juicebox.md) |
-| ``Apr 2023`` | [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | Code4rena | **18th** out of 43 | [Link](https://code4rena.com/reports/2023-04-eigenlayer) | [1M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-04-eigenlayer.md) |
-| ``Apr 2023`` | [ENS](https://code4rena.com/contests/2023-04-ens-contest#top) | Code4rena | **21th** out of 59 | [Link](https://code4rena.com/reports/2023-04-ens) | [Lows](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-04-ens.md) |
-| ``Mar 2023`` | [Neo Tokyo](https://code4rena.com/contests/2023-03-neo-tokyo-contest) | Code4rena | **5th** out of 123 | [Link](https://code4rena.com/reports/2023-03-neotokyo) | [2H](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-03-neo-tokyo-contest.md) |
-| ``Feb 2023`` | [OlympusDAO: Single Sided Liquidity Vaults](https://app.sherlock.xyz/audits/contests/50) | Sherlock | **11th** out of 154 | [Link](https://github.com/sherlock-audit/2023-02-olympus-judging/blob/main/Audit_Report.pdf) | [3H 1M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-02-olympus.md) |
-| ``Feb 2023`` | [Fair Funding by Alchemix & Unstoppable](https://app.sherlock.xyz/audits/contests/42) | Sherlock | **5th** out of 107 | [Link](https://github.com/sherlock-audit/2023-02-fair-funding-judging/blob/main/Audit_Report.pdf) | [3M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-02-fair-funding.md) |
-| ``Jan 2023`` | [OpenSea Seaport 1.2](https://code4rena.com/contests/2023-01-opensea-seaport-12-contest) |  Code4rena | **6th** out of 23 | [Link](https://code4rena.com/reports/2023-01-opensea) | [Lows](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-01-opensea-seaport-12.md) |
+| ``Oct`` | [Brahma](https://code4rena.com/contests/2023-10-brahma) |  Code4rena | 🥇 **1st** out of 51 | [Link](https://code4rena.com/reports/2023-10-brahma) | [1M](https://code4rena.com/reports/2023-10-brahma#m-03-protocol-is-not-eip712-compliant-incorrect-typehash-for-validation-and-transaction-structures) |
+| ``Jul`` | [Beedle - Oracle free perpetual lending](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) |  CodeHawks | **7th** out of 276 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) | [5H 2M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-07-beedle.md) |
+| ``May`` | [Maia DAO Ecosystem](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) |  Code4rena | **6th** out of 101 | [Link](https://code4rena.com/reports/2023-05-maia) | [2H 4M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-05-maia-dao-ecosystem.md) |
+| ``May`` | [Juicebox Buyback Delegate](https://code4rena.com/contests/2023-05-juicebox-buyback-delegate#top) | Code4rena | 🥇 **1st** out of 72 | [Link](https://code4rena.com/reports/2023-05-juicebox) | [1M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-05-juicebox.md) |
+| ``Apr`` | [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest#top) | Code4rena | **18th** out of 43 | [Link](https://code4rena.com/reports/2023-04-eigenlayer) | [1M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-04-eigenlayer.md) |
+| ``Apr`` | [ENS](https://code4rena.com/contests/2023-04-ens-contest#top) | Code4rena | **21th** out of 59 | [Link](https://code4rena.com/reports/2023-04-ens) | [Lows](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-04-ens.md) |
+| ``Mar`` | [Neo Tokyo](https://code4rena.com/contests/2023-03-neo-tokyo-contest) | Code4rena | **5th** out of 123 | [Link](https://code4rena.com/reports/2023-03-neotokyo) | [2H](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-03-neo-tokyo-contest.md) |
+| ``Feb`` | [OlympusDAO: Single Sided Liquidity Vaults](https://app.sherlock.xyz/audits/contests/50) | Sherlock | **11th** out of 154 | [Link](https://github.com/sherlock-audit/2023-02-olympus-judging/blob/main/Audit_Report.pdf) | [3H 1M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-02-olympus.md) |
+| ``Feb`` | [Fair Funding by Alchemix & Unstoppable](https://app.sherlock.xyz/audits/contests/42) | Sherlock | **5th** out of 107 | [Link](https://github.com/sherlock-audit/2023-02-fair-funding-judging/blob/main/Audit_Report.pdf) | [3M](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-02-fair-funding.md) |
+| ``Jan`` | [OpenSea Seaport 1.2](https://code4rena.com/contests/2023-01-opensea-seaport-12-contest) |  Code4rena | **6th** out of 23 | [Link](https://code4rena.com/reports/2023-01-opensea) | [Lows](https://github.com/abarbatei/audits/tree/main/reports/contests/2023-01-opensea-seaport-12.md) |
 
 ## Other Public Audit Contests
 
