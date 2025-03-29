@@ -19,16 +19,21 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Jan`` | Undisclosed | Cross-chain, intent-based orderbook | Independent | Solidity | - |
+| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | - |
+| ``Mar`` | [Hermetica](https://hermetica.fi/) | USDh minting contract | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica%20USDh%20Minting%20Contract.pdf) |
+| ``Mar`` | Undisclosed | Stableswap algorithm extension | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
+| ``Feb`` | [Accountable](https://www.accountable.capital/) | ERC7540 vault implementation | Independent | Solidity | - |
+| ``Jan`` | Undisclosed | Cross-chain bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
+| ``Jan`` | [iLayer](https://www.ilayer.io/) | Cross-chain, intent-based orderbook | Independent | Solidity | - |
 | ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
 
 ### Security Engagements done in 2024
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Dec`` | Undisclosed | On-chain price oracle integration | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
+| ``Dec`` | [Granite](https://www.granite.world/) | On-chain price oracle integration | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-12-20%20Granite%20Misc%20Upgrades%20Audit%20-%20Clarity%20Alliance.pdf) |
 | ``Dec`` | Undisclosed | Bitcoin bridging and staking mechanism | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
-| ``Dec`` | Undisclosed | On-chain price oracle implementation | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
+| ``Dec`` | [Pyth Oracle](https://www.pyth.network/) | On-chain price oracle implementation | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Trust-Machines/stacks-pyth-bridge/blob/clarity-v3/audits/2024-12-08%20Pyth%20Audit%20-%20Clarity%20Alliance.pdf) |
 | ``Nov`` | [Zest Protocol E-Mode](https://docs.zestprotocol.com/start/borrow-contracts/zest-borrow-contracts-overview) | Extension on a borrowing and lending protocol | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Zest%20Protocol%20E-Mode.pdf) |
 | ``Oct`` | Undisclosed | Bitcoin backed stablecoin | Undisclosed | Clarity | - |
 | ``Sep`` | [Bitflow StableSwap Staking](https://docs.bitflow.finance/bitflow-documentation) | StableSwap LP staking mechanism | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Staking.pdf) |
@@ -59,7 +64,7 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 ## Testimonials
 
-![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-2.png)
+![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-3.png)
 
 ## Public Audit Competitions done in 2023
 
