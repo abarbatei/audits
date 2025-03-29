@@ -85,6 +85,8 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 | Date | Contest |  Platform  | Rank | Official Solution |
 |:-|:-|:-|:-|:-:|
+| ``Feb 2025`` | [Race 38](https://x.com/TheSecureum/status/1898739794651517163) | Secureum | **23th** out of 47 | [Link](https://ventral.digital/posts/2025/3/3/race-38-of-the-secureum-bootcamp-epoch-infinity/)|
+| ``Jan 2025`` | [Race 37](https://x.com/TheSecureum/status/1890620192998174732) | Secureum | **4th** out of 51 | [Link](https://ventral.digital/posts/2025/2/14/race-37-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Nov 2024`` | [Race 35](https://x.com/TheSecureum/status/1871045085242220694) | Secureum | **24th** out of 91 | [Link](https://ventral.digital/posts/2024/12/10/race-35-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Sep 2024`` | [Race 33](https://x.com/patrickd_de/status/1841507214718058521) | Secureum | **16th** out of 72 | [Link](https://ventral.digital/posts/2024/10/1/race-33-of-the-secureum-bootcamp-epoch-infinity/) |
 | ``Aug 2024`` | [Race 32](https://x.com/TheSecureum/status/1837338857018167298) | Secureum | **25th** out of 69 | [Link](https://ventral.digital/posts/2024/9/8/race-32-of-the-secureum-bootcamp-epoch-infinity/) |
@@ -105,5 +107,4 @@ If you’re interested in learning more about what I do, you can check out my bl
 - [Cantina](https://cantina.xyz/u/abarbatei)
 - [CodeHawks](https://profiles.cyfrin.io/u/abarbatei)
 - [Code4rena](https://code4rena.com/@ABA)
-- [FindAudit](https://app.findaudit.xyz/p/abarbatei)
 - [Sherlock](https://audits.sherlock.xyz/watson/ABA)
