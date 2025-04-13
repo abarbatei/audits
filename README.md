@@ -1,17 +1,22 @@
-# ABA security and audit portfolio
+# ABA Audit Portfolio
 
-The following is the public profile of my career as a blockchain Security Researcher and Smart Contract Auditor.
+Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
-I'm Alin Mihai Barbatei, also know as ABA. I'm an independent security researcher with a strong focus on blockchain security. My career started in traditional software security, which has given me a solid foundation for uncovering complex vulnerabilities. Over the years, I've gained significant experience securing both EVM (Ethereum Virtual Machine) compatible blockchain projects and Bitcoin L2, particularly Stacks, projects.
+Audited smart contracts securing over **$430M TVL**, with **700+** findings across **33** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
-I've conducted a number of solo and collaborative smart contract security reviews. I take pride in delivering thorough and comprehensive smart contract audits that stand out for their quality.
+Worked with top-tier security teams – [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
-If you’re interested in learning more about what I do, you can check out my blog at abarbatei.xyz. You can also take a look at my audit portfolio there. For audit bookings or if you have any security review inquiries, feel free to reach out to me on Telegram, Twitter (X), or WarpCast:
+Ranked 🥇 1st in two audit contests and placed in the top 10 in seven more[**](https://github.com/abarbatei/audits?tab=readme-ov-file#public-audit-competitions-done-in-2023).
 
+References:
 - Telegram: [abarbatei](https://t.me/abarbatei)
 - Twitter (X): [abarbatei](https://x.com/abarbatei)
 - WarpCast: [abarbatei.eth](https://warpcast.com/abarbatei.eth)
+- Blog: [abarbatei.xyz](https://abarbatei.xyz/) (educational content)
 
+## Testimonials
+
+![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-3.png)
 
 ## Security Engagements
 
@@ -19,11 +24,11 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | - |
-| ``Mar`` | [Hermetica](https://hermetica.fi/) | USDh minting contract | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica%20USDh%20Minting%20Contract.pdf) |
-| ``Mar`` | Undisclosed | Stableswap algorithm extension | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
+| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/iLayer_x_ABA_LayerZero_Integration_Audit_Report-v1.1.pdf) |
+| ``Mar`` | [Hermetica](https://hermetica.fi/) | USDh minting contract | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica%20USDh%20Minting%20Contract.pdf) |
+| ``Mar`` | Undisclosed | Stableswap algorithm extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | - |
 | ``Feb`` | [Accountable](https://www.accountable.capital/) | ERC7540 vault implementation | Independent | Solidity | - |
-| ``Jan`` | Undisclosed | Cross-chain bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
+| ``Jan`` | [Axelar](https://www.axelar.network/) | Cross-chain bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Axelar.pdf) |
 | ``Jan`` | [iLayer](https://www.ilayer.io/) | Cross-chain, intent-based orderbook | Independent | Solidity | - |
 | ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
 
@@ -31,19 +36,20 @@ If you’re interested in learning more about what I do, you can check out my bl
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Dec`` | [Granite](https://www.granite.world/) | On-chain price oracle integration | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-12-20%20Granite%20Misc%20Upgrades%20Audit%20-%20Clarity%20Alliance.pdf) |
-| ``Dec`` | Undisclosed | Bitcoin bridging and staking mechanism | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | - |
-| ``Dec`` | [Pyth Oracle](https://www.pyth.network/) | On-chain price oracle implementation | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Trust-Machines/stacks-pyth-bridge/blob/clarity-v3/audits/2024-12-08%20Pyth%20Audit%20-%20Clarity%20Alliance.pdf) |
-| ``Nov`` | [Zest Protocol E-Mode](https://docs.zestprotocol.com/start/borrow-contracts/zest-borrow-contracts-overview) | Extension on a borrowing and lending protocol | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Zest%20Protocol%20E-Mode.pdf) |
+| ``Dec`` | [Granite](https://www.granite.world/) | On-chain price oracle integration | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-12-20%20Granite%20Misc%20Upgrades%20Audit%20-%20Clarity%20Alliance.pdf) |
+| ``Dec`` | [sBTC Reward Program](https://bitcoinismore.org/) | Staking contract | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20sBTC%20Rewards%20Program.pdf) |
+| ``Dec`` | [sBTC](https://www.stacks.co/sbtc) | Bitcoin bridging mechanism | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20sBTC.pdf) |
+| ``Dec`` | [Pyth Oracle](https://www.pyth.network/) | On-chain price oracle implementation | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Trust-Machines/stacks-pyth-bridge/blob/clarity-v3/audits/2024-12-08%20Pyth%20Audit%20-%20Clarity%20Alliance.pdf) |
+| ``Nov`` | [Zest Protocol E-Mode](https://docs.zestprotocol.com/start/borrow-contracts/zest-borrow-contracts-overview) | Extension on a borrowing and lending protocol | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Zest%20Protocol%20E-Mode.pdf) |
 | ``Oct`` | Undisclosed | Bitcoin backed stablecoin | Undisclosed | Clarity | - |
-| ``Sep`` | [Bitflow StableSwap Staking](https://docs.bitflow.finance/bitflow-documentation) | StableSwap LP staking mechanism | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Staking.pdf) |
-| ``Sep`` | [Bitflow StableSwap](https://docs.bitflow.finance/bitflow-documentation/learn/what-is-the-bitflow-stableswap) | Extension to the existing StableSwap implementation | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap.pdf) |
-| ``Sep`` | [Zest Protocol BTCz](https://docs.zestprotocol.com/start/earn/zest-protocol-earn-overview/btcz) | Bitcoin to Stacks BTC bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Zest%20Protocol%20BTCz.pdf) |
+| ``Sep`` | [Bitflow StableSwap Staking](https://docs.bitflow.finance/bitflow-documentation) | StableSwap LP staking mechanism | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Staking.pdf) |
+| ``Sep`` | [Bitflow StableSwap](https://docs.bitflow.finance/bitflow-documentation/learn/what-is-the-bitflow-stableswap) | Extension to the existing StableSwap implementation | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap.pdf) |
+| ``Sep`` | [Zest Protocol BTCz](https://docs.zestprotocol.com/start/earn/zest-protocol-earn-overview/btcz) | Bitcoin to Stacks BTC bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Zest%20Protocol%20BTCz.pdf) |
 | ``Aug`` | [Granite Safety Module](https://www.granite.world/) | AAVE-like Umbrella Safety Module | Independent | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-09-03%20Granite%20Safety%20Module%20Audit%20-%20ABA.pdf) |
-| ``Aug`` | Undisclosed | Node infrastructure software | Undisclosed | Rust | - |
+| ``Aug`` | [Stacks Nakamoto Upgrade](https://docs.stacks.co/nakamoto-upgrade/what-is-the-nakamoto-release) | Node infrastructure software | [Clarity Alliance](https://www.clarityalliance.org/) | Rust | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Nakamoto.pdf) |
 | ``Jul`` | [BlastTheBalloon](https://x.com/blasttheballoon) |  Extension on my previous BTB audit | [sub7](https://sub7.xyz/)  | Solidity | [📄](https://drive.google.com/file/d/1vEWf-srM3sXQ15R3Gq9gU7_T-_D5pcYM/view) |
 | ``Jun`` | [Granite](https://www.granite.world/) | Borrowing and lending protocol | Independent | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-08-12%20Granite%20Audit%20-%20ABA.pdf) |
-| ``Jun`` | [Pontis Bridge](https://x.com/Pontis_official) | Bitcoin asset bridge | [Clarity Alliance](https://x.com/ClarAllianceSTX) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Pontis%20Bridge.pdf) |
+| ``Jun`` | [Pontis Bridge](https://x.com/Pontis_official) | Bitcoin asset bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Pontis%20Bridge.pdf) |
 | ``May`` | [BlastTheBalloon](https://x.com/blasttheballoon) |  Blast on-chain lottery game  | [sub7](https://sub7.xyz/)  | Solidity | - |
 | ``May`` | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
 | ``May`` | [DN404](http://dn404.org/) | ERC7631 standard co-joined ERC20 and ERC721 implementation | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
@@ -61,10 +67,6 @@ If you’re interested in learning more about what I do, you can check out my bl
 | ``Dec`` | [Umami](https://umami.finance/) | GMX V2 market index: GMI | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
 | ``Nov`` | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
 | ``Oct`` | [PariFi](https://parifi.org/) | Perpetuals logic | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
-
-## Testimonials
-
-![testimonials](https://raw.githubusercontent.com/abarbatei/audits/main/reports/testimonials/testimonials-3.png)
 
 ## Public Audit Competitions done in 2023
 
