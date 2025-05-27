@@ -2,7 +2,7 @@
 
 Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
-Audited smart contracts securing over **$430M TVL**, with **700+** findings across **33** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
+Audited smart contracts securing over **$430M TVL**, with **700+** findings across **36** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
 Worked with top-tier security teams – [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
@@ -24,13 +24,16 @@ References:
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/iLayer_x_ABA_LayerZero_Integration_Audit_Report-v1.1.pdf) |
+| ``May`` | [Liquify Ventures](https://liquify.ventures/) | Deposit and claim component | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Unified_Bridge_Audit_Report-v1.1.pdf) |
+| ``Apr`` | [ALEX Lab](https://alexlab.co/) | Discrete Automated Market Maker (DAMM) swap | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20ALEX%20Lab.pdf) |
+| ``Apr`` | [Bitflow StableSwap](https://docs.bitflow.finance/bitflow-documentation/learn/what-is-the-bitflow-stableswap) | Unbalanced liquidity withdrawals extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Midpoint%20(Upgrade).pdf) |
+| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/iLayer_x_ABA_LayerZero_Integration_Audit_Report-v1.1.pdf) |
 | ``Mar`` | [Hermetica](https://hermetica.fi/) | USDh minting contract | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica%20USDh%20Minting%20Contract.pdf) |
-| ``Mar`` | Undisclosed | Stableswap algorithm extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | - |
+| ``Mar`` | [Bitflow Flex Pools](https://support.bitflow.finance/hc/en-us/articles/39819759130259-HOW-TO-MIGRATE-your-stSTX-STX-Pool) | Stableswap algorithm extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Midpoint.pdf) |
 | ``Feb`` | [Accountable](https://www.accountable.capital/) | ERC7540 vault implementation | Independent | Solidity | - |
 | ``Jan`` | [Axelar](https://www.axelar.network/) | Cross-chain bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Axelar.pdf) |
 | ``Jan`` | [iLayer](https://www.ilayer.io/) | Cross-chain, intent-based orderbook | Independent | Solidity | - |
-| ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
+| ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
 
 ### Security Engagements done in 2024
 
@@ -51,19 +54,19 @@ References:
 | ``Jun`` | [Granite](https://www.granite.world/) | Borrowing and lending protocol | Independent | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-08-12%20Granite%20Audit%20-%20ABA.pdf) |
 | ``Jun`` | [Pontis Bridge](https://x.com/Pontis_official) | Bitcoin asset bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Pontis%20Bridge.pdf) |
 | ``May`` | [BlastTheBalloon](https://x.com/blasttheballoon) |  Blast on-chain lottery game  | [sub7](https://sub7.xyz/)  | Solidity | - |
-| ``May`` | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
+| ``May`` | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
 | ``May`` | [DN404](http://dn404.org/) | ERC7631 standard co-joined ERC20 and ERC721 implementation | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
 | ``Apr`` | Undisclosed | GMX V2 backed stablecoin | [Guardian](https://guardianaudits.com/) | Solidity | - |
 | ``Mar`` | Undisclosed | Staking and token migration | [Guardian](https://guardianaudits.com/) | Solidity | - |
 | ``Mar`` | Undisclosed | GMX V1 backed stablecoin | [Guardian](https://guardianaudits.com/) | Solidity | - |
-| ``Feb`` | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
+| ``Feb`` | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
 | ``Jan`` | [Rest Finance](https://www.restfinance.xyz/) |  Liquid Restaking EigenLayer Integration | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/RestFinance/2024-01-26_Rest_Finance.pdf) |
 
 ### Security Engagements done in 2023
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Dec`` | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; GMX V1, AAVE, Fraxlend and Angle integration | Independent | Solidity | [📄](https://github.com/abarbatei/audits/tree/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
+| ``Dec`` | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; GMX V1, AAVE, Fraxlend and Angle integration | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
 | ``Dec`` | [Umami](https://umami.finance/) | GMX V2 market index: GMI | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
 | ``Nov`` | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
 | ``Oct`` | [PariFi](https://parifi.org/) | Perpetuals logic | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
@@ -100,9 +103,10 @@ References:
 
 ## Educational content
 
-- [Blockchain reorgs for Managers and Auditors](https://abarbatei.xyz/blockchain-reorgs-for-managers-and-auditors)
-- [DN404 - Vulnerabilities Reported And Resolved](https://guardianaudits.com/blog/dn404-vulnerabilities-reported-and-resolved)
+- [Stack Too Deep And Indexed Event Logs](https://x.com/abarbatei/status/1916130703181336719)
 - [Weird ERC721 Tokens](https://github.com/abarbatei/weird-erc721)
+- [DN404 - Vulnerabilities Reported And Resolved](https://guardianaudits.com/blog/dn404-vulnerabilities-reported-and-resolved)
+- [Blockchain reorgs for Managers and Auditors](https://abarbatei.xyz/blockchain-reorgs-for-managers-and-auditors)
 
 ## Relevant Profiles
 
