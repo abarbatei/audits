@@ -2,13 +2,13 @@
 
 Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
-Audited smart contracts securing over **$430M TVL**, with **700+** findings across **36** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
+Audited smart contracts securing over **$430M TVL**, with **700+** findings across **39** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
-Worked with top-tier security teams – [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
+Worked with top-tier security teams [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
 Ranked 🥇 1st in two audit contests and placed in the top 10 in seven more[**](https://github.com/abarbatei/audits?tab=readme-ov-file#public-audit-competitions-done-in-2023).
 
-References:
+Socials:
 - Telegram: [abarbatei](https://t.me/abarbatei)
 - Twitter (X): [abarbatei](https://x.com/abarbatei)
 - WarpCast: [abarbatei.eth](https://warpcast.com/abarbatei.eth)
@@ -24,6 +24,9 @@ References:
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
+| ``Jun`` | [Liquify Ventures](https://liquify.ventures/) | Referral manager component upgrade | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf) | |
+| ``May`` | [Huego](https://huego.xyz/) | On-chain turn-based strategic block placing game | [ChainThreat](https://chainthreat.com/) | Solidity | TBA |
+| ``May`` | [StackingDAO](https://www.stackingdao.com/) | sBTC reward transfer logic changes | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Stacking%20DAO%20(Upgrade).pdf) |
 | ``May`` | [Liquify Ventures](https://liquify.ventures/) | Deposit and claim component | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Unified_Bridge_Audit_Report-v1.1.pdf) |
 | ``Apr`` | [ALEX Lab](https://alexlab.co/) | Discrete Automated Market Maker (DAMM) swap | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20ALEX%20Lab.pdf) |
 | ``Apr`` | [Bitflow StableSwap](https://docs.bitflow.finance/bitflow-documentation/learn/what-is-the-bitflow-stableswap) | Unbalanced liquidity withdrawals extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Midpoint%20(Upgrade).pdf) |
@@ -90,6 +93,7 @@ References:
 
 | Date | Contest |  Platform  | Rank | Official Solution |
 |:-|:-|:-|:-|:-:|
+| ``May 2025`` | Race 41 | Secureum | **9th** out of 50 | TBA |
 | ``Feb 2025`` | [Race 38](https://x.com/TheSecureum/status/1898739794651517163) | Secureum | **23th** out of 47 | [Link](https://ventral.digital/posts/2025/3/3/race-38-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Jan 2025`` | [Race 37](https://x.com/TheSecureum/status/1890620192998174732) | Secureum | **4th** out of 51 | [Link](https://ventral.digital/posts/2025/2/14/race-37-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Nov 2024`` | [Race 35](https://x.com/TheSecureum/status/1871045085242220694) | Secureum | **24th** out of 91 | [Link](https://ventral.digital/posts/2024/12/10/race-35-of-the-secureum-bootcamp-epoch-infinity/)|
