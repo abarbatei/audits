@@ -2,7 +2,7 @@
 
 Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
-Audited smart contracts securing over **$430M TVL**, with **700+** findings across **39** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
+Audited smart contracts securing over **$430M TVL**, with **700+** findings across **41** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
 Worked with top-tier security teams [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
@@ -20,25 +20,27 @@ Socials:
 
 ## Security Engagements
 
-### Security Engagements done in 2025
+### Security Engagements done in 2025 (15)
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Jun`` | [Liquify Ventures](https://liquify.ventures/) | Referral manager component upgrade | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf) | |
-| ``May`` | [Huego](https://huego.xyz/) | On-chain turn-based strategic block placing game | [ChainThreat](https://chainthreat.com/) | Solidity | TBA |
+| ``Jun`` | [Liquify Ventures](https://liquify.ventures/) | Referral manager component upgrade | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf) | |
+| ``May`` | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending protocol | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/Liquify_Ventures_x_ABA-Liquify_Borrowing_And_Lending_Component_Audit_Report.pdf) |
+| ``May`` | [Huego](https://huego.xyz/) | On-chain turn-based strategic block placing game | [ChainThreat](https://chainthreat.com/) | Solidity | [📄](https://github.com/chainthreatsec/Audits/blob/main/Huego_Audit_Report_by_ChainThreat_2025-06.pdf) |
+| ``May`` | [Granite](https://www.granite.world/) | Timelock, flash-loan and daily caps integration | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | TBA |
 | ``May`` | [StackingDAO](https://www.stackingdao.com/) | sBTC reward transfer logic changes | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Stacking%20DAO%20(Upgrade).pdf) |
-| ``May`` | [Liquify Ventures](https://liquify.ventures/) | Deposit and claim component | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Unified_Bridge_Audit_Report-v1.1.pdf) |
+| ``May`` | [Liquify Ventures](https://liquify.ventures/) | Deposit and claim component | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/Liquify_Ventures_x_ABA-Unified_Bridge_Audit_Report-v1.1.pdf) |
 | ``Apr`` | [ALEX Lab](https://alexlab.co/) | Discrete Automated Market Maker (DAMM) swap | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20ALEX%20Lab.pdf) |
 | ``Apr`` | [Bitflow StableSwap](https://docs.bitflow.finance/bitflow-documentation/learn/what-is-the-bitflow-stableswap) | Unbalanced liquidity withdrawals extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Midpoint%20(Upgrade).pdf) |
-| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/iLayer_x_ABA_LayerZero_Integration_Audit_Report-v1.1.pdf) |
+| ``Mar`` | [iLayer](https://www.ilayer.io/) | LayerZero integration for an intent-based orderbook | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/iLayer_x_ABA_LayerZero_Integration_Audit_Report-v1.1.pdf) |
 | ``Mar`` | [Hermetica](https://hermetica.fi/) | USDh minting contract | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Hermetica%20USDh%20Minting%20Contract.pdf) |
 | ``Mar`` | [Bitflow Flex Pools](https://support.bitflow.finance/hc/en-us/articles/39819759130259-HOW-TO-MIGRATE-your-stSTX-STX-Pool) | Stableswap algorithm extension | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Bitflow%20Stableswap%20Midpoint.pdf) |
 | ``Feb`` | [Accountable](https://www.accountable.capital/) | ERC7540 vault implementation | Independent | Solidity | - |
 | ``Jan`` | [Axelar](https://www.axelar.network/) | Cross-chain bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Axelar.pdf) |
 | ``Jan`` | [iLayer](https://www.ilayer.io/) | Cross-chain, intent-based orderbook | Independent | Solidity | - |
-| ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
+| ``Jan`` | [Inferno.fun](https://inferno.fun/) | Bonding curve token launchpad | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/Inferno.fun_x_ABA-Inferno.fun_Launchpad_Audit_Report_v1.1.pdf) |
 
-### Security Engagements done in 2024
+### Security Engagements done in 2024 (22)
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
@@ -57,19 +59,19 @@ Socials:
 | ``Jun`` | [Granite](https://www.granite.world/) | Borrowing and lending protocol | Independent | Clarity | [📄](https://github.com/GraniteProtocol/audits/blob/main/2024-08-12%20Granite%20Audit%20-%20ABA.pdf) |
 | ``Jun`` | [Pontis Bridge](https://x.com/Pontis_official) | Bitcoin asset bridge | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Pontis%20Bridge.pdf) |
 | ``May`` | [BlastTheBalloon](https://x.com/blasttheballoon) |  Blast on-chain lottery game  | [sub7](https://sub7.xyz/)  | Solidity | - |
-| ``May`` | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
+| ``May`` | [b0rder1ess](https://borderless.art/) | Extension on my previous NAP audit | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/b0rder1ess-NAP_Extension_Audit_Report.pdf) |
 | ``May`` | [DN404](http://dn404.org/) | ERC7631 standard co-joined ERC20 and ERC721 implementation | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
 | ``Apr`` | Undisclosed | GMX V2 backed stablecoin | [Guardian](https://guardianaudits.com/) | Solidity | - |
 | ``Mar`` | Undisclosed | Staking and token migration | [Guardian](https://guardianaudits.com/) | Solidity | - |
 | ``Mar`` | Undisclosed | GMX V1 backed stablecoin | [Guardian](https://guardianaudits.com/) | Solidity | - |
-| ``Feb`` | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
+| ``Feb`` | [b0rder1ess](https://borderless.art/) | NFTs backed by Uniswap V2 liquidity | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/b0rder1ess-Native_Assurance_Protocol_Audit_Report-v1.1.pdf) |
 | ``Jan`` | [Rest Finance](https://www.restfinance.xyz/) |  Liquid Restaking EigenLayer Integration | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/RestFinance/2024-01-26_Rest_Finance.pdf) |
 
-### Security Engagements done in 2023
+### Security Engagements done in 2023 (4)
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Dec`` | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; GMX V1, AAVE, Fraxlend and Angle integration | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Ithil-v2-Security-Review-v105.pdf) |
+| ``Dec`` | [Ithil](https://ithil.fi/) | Borrowing, lending and options logic; GMX V1, AAVE, Fraxlend and Angle integration | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/independent-audits/Ithil-v2-Security-Review-v105.pdf) |
 | ``Dec`` | [Umami](https://umami.finance/) | GMX V2 market index: GMI | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/Umami/2024-01-10_Umami.pdf) |
 | ``Nov`` | [Dolomite](https://dolomite.io/) | GMX V2 integration; borrowing and lending GM | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/Dolomite/2023-01-11_Dolomite.pdf) |
 | ``Oct`` | [PariFi](https://parifi.org/) | Perpetuals logic | [Guardian](https://guardianaudits.com/) | Solidity | [📄](https://github.com/GuardianAudits/Audits/blob/main/PariFi/11-15-2023_PariFi.pdf) |
@@ -93,7 +95,8 @@ Socials:
 
 | Date | Contest |  Platform  | Rank | Official Solution |
 |:-|:-|:-|:-|:-:|
-| ``May 2025`` | Race 41 | Secureum | **9th** out of 50 | TBA |
+| ``Jun 2025`` | Race 42 | Secureum | **11th** out of 49 | TBA |
+| ``May 2025`` | [Race 41](https://x.com/TheSecureum/status/1936416823471382648) | Secureum | **9th** out of 50 | [Link](https://ventral.digital/posts/2025/6/19/race-41-of-the-secureum-bootcamp-epoch-infinity/) |
 | ``Feb 2025`` | [Race 38](https://x.com/TheSecureum/status/1898739794651517163) | Secureum | **23th** out of 47 | [Link](https://ventral.digital/posts/2025/3/3/race-38-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Jan 2025`` | [Race 37](https://x.com/TheSecureum/status/1890620192998174732) | Secureum | **4th** out of 51 | [Link](https://ventral.digital/posts/2025/2/14/race-37-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Nov 2024`` | [Race 35](https://x.com/TheSecureum/status/1871045085242220694) | Secureum | **24th** out of 91 | [Link](https://ventral.digital/posts/2024/12/10/race-35-of-the-secureum-bootcamp-epoch-infinity/)|
