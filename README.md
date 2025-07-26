@@ -2,7 +2,7 @@
 
 Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
-Audited smart contracts securing over **$430M TVL**, with **700+** findings across **41** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
+Audited smart contracts securing over **$1B TVL**, with **800+** findings across **41** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
 Worked with top-tier security teams [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
@@ -95,7 +95,7 @@ Socials:
 
 | Date | Contest |  Platform  | Rank | Official Solution |
 |:-|:-|:-|:-|:-:|
-| ``Jun 2025`` | Race 42 | Secureum | **11th** out of 49 | TBA |
+| ``Jun 2025`` | [Race 42](https://x.com/TheSecureum/status/1946791628280410351) | Secureum | **11th** out of 49 | [Link](https://ventral.digital/posts/2025/7/14/race-42-of-the-secureum-bootcamp-epoch-infinity/) |
 | ``May 2025`` | [Race 41](https://x.com/TheSecureum/status/1936416823471382648) | Secureum | **9th** out of 50 | [Link](https://ventral.digital/posts/2025/6/19/race-41-of-the-secureum-bootcamp-epoch-infinity/) |
 | ``Feb 2025`` | [Race 38](https://x.com/TheSecureum/status/1898739794651517163) | Secureum | **23th** out of 47 | [Link](https://ventral.digital/posts/2025/3/3/race-38-of-the-secureum-bootcamp-epoch-infinity/)|
 | ``Jan 2025`` | [Race 37](https://x.com/TheSecureum/status/1890620192998174732) | Secureum | **4th** out of 51 | [Link](https://ventral.digital/posts/2025/2/14/race-37-of-the-secureum-bootcamp-epoch-infinity/)|
@@ -110,6 +110,7 @@ Socials:
 
 ## Educational content
 
+- [Labubu: Toy Story Gone Wrong](https://www.clarityalliance.org/articles/labubu)
 - [Stack Too Deep And Indexed Event Logs](https://x.com/abarbatei/status/1916130703181336719)
 - [Weird ERC721 Tokens](https://github.com/abarbatei/weird-erc721)
 - [DN404 - Vulnerabilities Reported And Resolved](https://guardianaudits.com/blog/dn404-vulnerabilities-reported-and-resolved)
