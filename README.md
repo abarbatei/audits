@@ -1,12 +1,12 @@
 # ABA
 
-Proficient security researcher with over 10 years of web2 and web3 security expertise combined. Principal Security Researcher [@Clarity Alliance](https://www.clarityalliance.org/); scaling Bitcoin security for the masses.
+Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
 Audited smart contracts securing over **$1B TVL**, with **800+** findings across **41** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
-Ranked 🥇 1st in two audit contests and placed in the top 10 in seven more[**](https://github.com/abarbatei/audits?tab=readme-ov-file#public-audit-competitions-done-in-2023).
+Worked with top-tier security teams [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
-Worked with top-tier security teams [Guardian Audits](https://guardianaudits.com/) (EVM) and now [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
+Ranked 🥇 1st in two audit contests and placed in the top 10 in seven more[**](https://github.com/abarbatei/audits?tab=readme-ov-file#public-audit-competitions-done-in-2023).
 
 Socials:
 - Telegram: [abarbatei](https://t.me/abarbatei)
