@@ -2,7 +2,7 @@
 
 Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
 
-Audited smart contracts securing over **$1B TVL**, with **800+** findings across **41** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
+Audited smart contracts securing over **$1B TVL**, with **1000+** findings across **51** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
 Worked with top-tier security teams [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
@@ -11,7 +11,6 @@ Ranked 🥇 1st in two audit contests and placed in the top 10 in seven more[**]
 Socials:
 - Telegram: [abarbatei](https://t.me/abarbatei)
 - Twitter (X): [abarbatei](https://x.com/abarbatei)
-- WarpCast: [abarbatei.eth](https://warpcast.com/abarbatei.eth)
 - Blog: [abarbatei.xyz](https://abarbatei.xyz/)
 
 ## Testimonials
@@ -20,11 +19,21 @@ Socials:
 
 ## Security Engagements
 
-### Security Engagements done in 2025 (15)
+### Security Engagements done in 2025 (25)
 
 | Date | Project | Audited Functionality | Organization | Language | Report |
 |:-|:-|:-|:-|:-|:-:|
-| ``Jun`` | [Liquify Ventures](https://liquify.ventures/) | Referral manager component upgrade | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf) | |
+| ``Dec`` | [Zest V2](https://docs.zestprotocol.com/start/introducing-stacks-market-v2) | Borrowing and lending (further upgrades) | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade%20V2.pdf) |
+| ``Dec`` | [Granite](https://www.granite.world/) |  Miscellaneous improvements | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v3).pdf) |
+| ``Nov`` | [Bitflow](https://www.bitflow.finance/) | HODLMM (upgrades) | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | - |
+| ``Dec`` | [Zest V2](https://docs.zestprotocol.com/start/introducing-stacks-market-v2) | Borrowing and lending (upgrades) | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2%20Upgrade.pdf) |
+| ``Oct`` | [Hermetica](https://docs.hermetica.fi/hbtc/overview) | hBTC yield protocol | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | - |
+| ``Oct`` | [Zest V2](https://docs.zestprotocol.com/start/introducing-stacks-market-v2) | Borrowing and lending | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Zest%20Protocol%20v2.pdf) |
+| ``Sep`` | [Bitflow](https://www.bitflow.finance/) | HODLMM | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | - |
+| ``Sep`` | [Hermetica](https://hermetica.fi/) | USDh upgrade and security enhancements | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Hermetica%20USDh%20(Upgrade).pdf) |
+| ``Aug`` | [Granite](https://www.granite.world/) |  Pyth oracle client upgrade | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20Granite-Pyth%20(Upgrade).pdf) |
+| ``Jul`` | [Stacks Foundation](https://stacks.org/) |  SIP-31 boot contract | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://clarity-alliance.github.io/audits/Clarity%20Alliance%20-%20SIP-31%20Boot%20Contract.pdf) |
+| ``Jun`` | [Liquify Ventures](https://liquify.ventures/) | Referral manager component upgrade | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Refferal_Manager_Upgrade_Audit_Report.pdf) |
 | ``May`` | [Liquify Ventures](https://liquify.ventures/) | Borrowing and lending protocol | Independent | Solidity | [📄](https://github.com/abarbatei/audits/blob/main/reports/solo-audits/Liquify_Ventures_x_ABA-Liquify_Borrowing_And_Lending_Component_Audit_Report.pdf) |
 | ``May`` | [Huego](https://huego.xyz/) | On-chain turn-based strategic block placing game | [ChainThreat](https://chainthreat.com/) | Solidity | [📄](https://github.com/chainthreatsec/Audits/blob/main/Huego_Audit_Report_by_ChainThreat_2025-06.pdf) |
 | ``May`` | [Granite](https://www.granite.world/) | Timelock, flash-loan and daily caps integration | [Clarity Alliance](https://www.clarityalliance.org/) | Clarity | [📄](https://github.com/Clarity-Alliance/audits/blob/main/Clarity%20Alliance%20-%20Granite%20(Upgrade%20v2).pdf) |
