@@ -4,7 +4,7 @@ Proficient security researcher with over 10 years of web2 and web3 security expe
 
 Audited smart contracts securing over **$1B TVL**, with **1000+** findings across **51** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
-Former Security Researcher & Team Lead at Bitdefender CTI Lab.
+Former Security Researcher & Team Lead at [Bitdefender](https://www.bitdefender.com/) CTI Lab.
 Collaborated with top-tier security teams including [Guardian Audits](https://guardianaudits.com/) (EVM) and [Clarity Alliance](https://www.clarityalliance.org/) (Stacks, Bitcoin L2).
 
 Ranked 🥇 1st in multiple audit contests; consistent top-10 finisher[**](https://github.com/abarbatei/audits?tab=readme-ov-file#public-audit-competitions-done-in-2023)..
