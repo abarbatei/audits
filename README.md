@@ -1,6 +1,6 @@
 # ABA
 
-Proficient security researcher with over 10 years of web2 and web3 security expertise combined.
+Founder and Principal Security Researcher at [Cyba Blockchain Security](https://cybasecurity.io/), with 10+ years of combined Web2 and Web3 security expertise.
 
 Audited smart contracts securing over **$1B TVL**, with **1000+** findings across **51** private and collaborative engagements[*](https://github.com/abarbatei/audits?tab=readme-ov-file#security-engagements).
 
